@@ -1,0 +1,14 @@
+{
+  "name": "gametify",
+  "version": "1.0.0",
+  "description": "Um site onde são disponibilizadas osts e playlists de musicas de GAMES",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "L.Amarilla",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.4.0"
+  }
+}
